@@ -1,0 +1,12 @@
+AES (Advanced Encryption Standard), bir şifreleme algoritmasıdır ve verilerin güvenli
+bir şekilde iletilmesini sağlamak için kullanılır.
+AES, NIST (National Institute of Standards and Technology) tarafından belirlenen bir 
+standarttır ve önceden kullanılan DES (Data Encryption Standard) gibi diğer şifreleme 
+algoritmalarının yerine kullanılmaya başlanmıştır.
+AES, 128, 192 veya 256 bit anahtarlar kullanır ve blok şifreleme yöntemiyle çalışır. 
+Bu algoritma, verileri bir blok halinde şifreler ve aynı boyutta şifrelenmiş blokları
+verir. AES algoritması, anahtarın değiştirilmesiyle kolaylıkla güvenlik düzeyi 
+artırılabilen bir yapıdadır.
+AES, geniş bir uygulama yelpazesine sahiptir ve özellikle bilgi güvenliği ve kriptografi 
+alanlarında kullanılır. Örneğin, AES, SSL/TLS protokolleri gibi internet
+bağlantılarının güvenli hale getirilmesinde kullanılır.
